@@ -5,7 +5,7 @@ This project focuses on detecting whether an image contains a dog or a cat using
 
 # 2. Project Code
 
-~~~python
+python
 import tensorflow as tf
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 import matplotlib.pyplot as plt
@@ -67,7 +67,9 @@ plt.legend()
 plt.show()
 
 
-# 3. Key Technologies
+
+
+3. Key Technologies
 - Python
 - TensorFlow / Keras
 - NumPy
